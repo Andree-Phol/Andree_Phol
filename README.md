@@ -8,7 +8,7 @@ Mi repositorio
 
 🌱Actualmente estoy aprendiendo...
 
-💻 Puedes ver : <a href="https://andreecode.rf.gd" target="_blank">Texto del enlace</a>
+💻 Puedes ver : <a href="https://andreecode.rf.gd" target="_blank">Mi pagina web</a>
 
 💞️ Busco colaborar en...
 
