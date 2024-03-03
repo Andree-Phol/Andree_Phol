@@ -1,8 +1,8 @@
-# 💻 About Me:
+# 💻 Acerca de mí:
 ¡Bienvenido a mi perfil de GitHub!<br><br>¡Hola! Soy Andree Phol, un apasionado programador de 20 años de Perú con un deseo insaciable de aprender y destacar en el mundo del desarrollo de software. Mi ferviente ambición es participar y contribuir en una amplia gama de proyectos, demostrando mi habilidad para enfrentar desafíos y entregar resultados excepcionales.<br><br>Mi enfoque proactivo y mi sed de conocimiento me impulsan constantemente a explorar nuevas tecnologías y metodologías, siempre buscando expandir mis horizontes y mejorar mis habilidades. Estoy particularmente interesado en el desarrollo web,desarrollo de aplicaciones de escritorio, desarrollo de aplicaciones móviles, etc. y estoy ansioso por aplicar mis conocimientos en entornos colaborativos.<br><br>Estoy convencido de que mi capacidad para aprender rápidamente y mi pasión por la programación me convierten en un activo valioso para cualquier equipo de desarrollo. Estoy listo para sumergirme en desafíos emocionantes, trabajar en equipo y contribuir al éxito del proyecto.<br><br>¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y ansioso por hacer mi contribución al mundo del desarrollo de software!<br><br>¡Gracias por visitar mi perfil y espero tener la oportunidad de colaborar contigo pronto!
 
 
-## 🌐 Socials:
+## 🌐 Acerca de mí:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andree-phol-apaico-paucca-0b3181229/) <br/>
 Visite mi pagina web: [AndreeCode](https://andreecode.rf.gd/)
 
