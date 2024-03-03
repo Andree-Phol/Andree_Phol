@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andree-phol-apaico-paucca-0b3181229/) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andree-phol-apaico-paucca-0b3181229) <br/>
 Visita mi pagina web: [AndreeCode](https://andreecode.rf.gd)
 
 # 💻 Tech Stack:
