@@ -8,7 +8,7 @@ Mi repositorio
 
 🌱Actualmente estoy aprendiendo...
 
-💻 Puedes ver : _config.yml[Mi pagina web](https://andreecode.rf.gd){:target="_blank" rel="noopener"}
+💻 Puedes ver : [Mi pagina web](https://andreecode.rf.gd)
 
 
 💞️ Busco colaborar en...
